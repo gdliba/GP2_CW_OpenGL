@@ -7,6 +7,7 @@ Camera 3 is mounted with a blue light (Light 2) with lower intensity
 Cameras 2 and 3 are represented as emissive cubes, making them visible in the scene
 Camera 1 is not visually represented
 
+Controls reference png also included for quick reference in folder.
 === CONTROLS ===
 
 GENERAL 
